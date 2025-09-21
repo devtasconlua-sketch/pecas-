@@ -80,7 +80,7 @@ body {
 .titulo {
   margin-bottom: 80px;
   font-family: "Arial Narrow", Arial, sans-serif;
-  color: yellow;
+  color: #ff2222;
   position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
@@ -1710,4 +1710,8 @@ body {
     font-size: 1.05em;
     max-height: 65vh;
   }
+}
+
+.texto-rojo {
+  color: #ff2222;
 }
